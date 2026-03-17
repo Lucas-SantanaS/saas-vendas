@@ -1,7 +1,7 @@
 # SaaS Vendas - Sistema de Gerenciamento de Produtos
 
 Bem-vindo ao SaaS Vendas, um sistema web completo para gerenciamento de produtos e vendas de pequenas empresas. 
-Este projeto está sendo deseolvido como portfólio para demonstrar habilidades em **PHP, MySQL e desenvolvimento de sistemas web profissionais**.
+Este projeto está sendo desenvolvido como portfólio para demonstrar habilidades em **PHP, MySQL e desenvolvimento de sistemas web profissionais**.
 
 ---
 
